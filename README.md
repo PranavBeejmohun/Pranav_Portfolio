@@ -5,13 +5,13 @@ Data Portfolio
 
 Stock Market Analysis means analyzing the current and historical trends in the stock market to make future buying and selling decisions. Stock market analysis is one of the best use cases of Data Science in finance. This is why it is my first Data Science project.
 
+Project Overview: 
 * Collect real time stock Price data from Yahoo Finance API.
 * Created visualizations of prices in:
   * Candle Light graph
   * Bar plot
   * Range Slider and Time Period selectors(for time period slicing)
 * Cleaned the Data to remove weekend trends since no trade is done on weekends.
-
 
 I chose to analyse the stock price of Google (Alphabetic Inc). Here is the progression of Google Stock price betweenn September 2022 and September 2023. 
 
